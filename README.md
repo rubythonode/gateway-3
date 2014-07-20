@@ -1,5 +1,7 @@
 # peerfile-server
 
+> This project is a proof of concept
+
 PeerFile server powered by Node.js
 
 ## Setup
