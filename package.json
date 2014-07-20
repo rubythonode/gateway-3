@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node lib/server"
+    "start": "node bin/peerfile"
   },
   "dependencies": {
     "binaryjs": "^0.2.1",
