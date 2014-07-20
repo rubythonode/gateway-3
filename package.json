@@ -1,8 +1,12 @@
 {
-  "name": "peerfile"
-  "version": "0.1.0"
+  "name": "peerfile",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "node lib/server"
+  },
+  "dependencies": {
+    "binaryjs": "^0.2.1",
+    "yargs": "^1.2.6"
   }
 }
